@@ -337,9 +337,24 @@ margin-left:40%;
     font-family:fantasy;
     text-decoration: underline;
     }      
- .main {
-     background:#1e90ff;
-     height:550px;
-     width:100%
-    }
+}
+
+@media only screen and (min-width : 320px) {
+   .main {
+   background:#1e90ff;
+   height:550px;
+   width:100%
+   }
+   h3 {
+   color:	#deb887;     
+   margin-top:8%;
+   margin-left:37%;
+   font-family:fantasy;
+   text-decoration: underline;
+   }
+  #third{
+  background:	#1e90ff;
+  height:400px;
+  width:100%;
+  }
 }
