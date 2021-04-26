@@ -331,5 +331,10 @@ margin-left:40%;
     margin-left:37%;
     font-family:fantasy;
     text-decoration: underline;
+    }      
+ .main {
+     background:#1e90ff;
+     height:540px;
+     width:100%
     }
 }
