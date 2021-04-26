@@ -309,6 +309,11 @@ h3{
    font-family:monospace;
    border-radius:50px;
    }
+   .main {
+     background:#1e90ff;
+     height:550px;
+     width:100%
+    }
 }
 @media screen and (min-width: 1024px) and (min-height: 1320px) {
 .mainimage{
